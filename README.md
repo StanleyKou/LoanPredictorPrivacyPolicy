@@ -1,0 +1,2 @@
+# LoanPredictorPrivacyPolicy
+PrivacyPolicy
